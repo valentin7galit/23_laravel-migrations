@@ -1,0 +1,2 @@
+Hello homework:
+Finish database schema based on document, schema should be created through laravel migrations. For those who finished, please use seeders and factories for populating the database. Create controllers and blade views for show an article, list of articles, category and tag
